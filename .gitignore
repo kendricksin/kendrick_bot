@@ -34,9 +34,6 @@ Thumbs.db
 *.log
 *.pid
 
-# uv
-.python-version
-
 # Coverage / testing
 .coverage
 htmlcov/
