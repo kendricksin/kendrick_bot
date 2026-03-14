@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: kendrick-bot
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: DASHSCOPE_API_KEY
+        sync: false
+      - key: MODEL_NAME
+        value: qwen-plus
+      - key: MAX_HISTORY_TURNS
+        value: "10"
