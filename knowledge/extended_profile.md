@@ -1,41 +1,46 @@
 # Extended Profile — Kendrick Sin
-# [PLACEHOLDER — fill in before deploying]
-# This file gives the bot richer, more personal context beyond the resume JSON.
-# Write in plain prose or bullet points. The bot will use this to give nuanced answers.
 
 ## Career Transition Story
-<!-- Describe the arc: Naval Officer → SAF Innovator → BD/Product Manager → AI Solutions -->
-- Kendrick started his career as a Naval Officer right after graduation as part of his scholarship requirements. His military career had instilled the values of leadership and discipline, but it had not served his innate desire to be a builder. When voicing this out with HR he was quickly assigned to a forward leaning role to support innovative technologies within the organization. During which he discovered his passion for solving problems with technology.
-- As an early adopter for AI, Kendrick had presented AI development to executives on stage as early as 2021 - far before generative AI became mainstream. During his speech at Sonkhla Chambers of Commerce gathering, he explained that everyone is a CTO now, and using technology doesnt always have to start with solving complex problems, it starts with something as small as a digital visitor registration form.
-- Being a frontline deployed sales representitive and business development manager, Kendrick had to package sophisticated technologies into value creating initiatives for enterprise customers. 
-- Customer Obsession. Unlike typical BD reps, Kendrick has strong ownership for what he sells, he does not want to misrepresent what technology can do, and take great effort to ensure the greatest user experience for his clients. He does active learning and hands-on testing, not just for products he sells, but also competitor products to understand customers pain when using those products or solutions.
+
+Kendrick started his career as a Naval Officer right after graduation, fulfilling his scholarship bond. The military instilled strong values of leadership and discipline, but it did not satisfy his innate desire to be a builder. After voicing this to HR, he was quickly assigned to a forward-leaning innovation role supporting the adoption of emerging technologies within the Singapore Armed Forces — and it was there that he discovered his passion for solving problems with technology.
+
+As an early adopter of AI, Kendrick was presenting AI development to executives as early as 2021, far before generative AI became mainstream. At a Songkhla Chambers of Commerce gathering, he delivered the message that "everyone is a CTO now" — that technology adoption does not have to start with complex enterprise systems; it can begin with something as small as a digital visitor registration form. That philosophy has shaped how he approaches clients to this day.
+
+Moving into frontline business development, Kendrick learned to package sophisticated technologies into value-creating initiatives for enterprise customers. Unlike typical BD representatives, he takes strong ownership of what he sells. He refuses to misrepresent what technology can do, and goes to great lengths to ensure the best possible user experience — including hands-on testing of competitor products to understand the pain points his clients are actually experiencing.
 
 ## What "AI Agentic Deployment" Means in Practice
-<!-- What does a typical day/project look like? What problems do you actually solve? -->
-- Kendricks core philosophy when proposing AI solutions roots from 2 concepts. 1 - Humans are low agency but high responsibility. 2 - AI has high agency, but low responsibility. That means when assigning tasks to humans, you can expect that the task could delay or face distruption midway with no alerts. Agents on the other hand would work until the electricity is cut.
-- The sweet spot for every business is to find the workflow where AI does all the work, and humans take responsility for the output. This solves the "should we be doing that?" problem, and turns it into a "how can we do that?" problem because processes are less relevant when compared to the outcome owned by the human.
-- The devil is in the details, we cannot expect every workflow to be structured or discrete, many of them are just unstructured and heavily conditional. That is where user requirements discovery matters the most.
+
+Kendrick's core philosophy on AI deployment is grounded in two principles:
+
+1. **Humans are low-agency but high-responsibility.** A human assigned a task can delay, be disrupted, or go silent without warning.
+2. **AI is high-agency but low-responsibility.** An agent will work until the electricity is cut — but it cannot own the outcome.
+
+The sweet spot for every business is to design workflows where AI does the execution and humans take ownership of the output. This reframes the question from "should we be doing that?" into "how can we do that?" — because when a human owns the outcome, the concern shifts from process compliance to results.
+
+The devil is in the details. Most real-world workflows are not structured or discrete — they are messy, conditional, and exception-heavy. That is where deep requirements discovery matters most. Kendrick has been experimenting with simulated domain-expert agents to accelerate the discovery process, and it has proven highly effective at surfacing hidden workflow complexity before implementation begins.
 
 ## Working with Non-Technical Stakeholders
-<!-- How do you bridge the gap? What's your communication style? -->
-- Transforming a business workflow from its unstructure nature into a repeatable workflow requires deep domain knowedlge and user surveys. This is often time consuming for a frontline business process owner. Interestingly, Kendrick has been experimenting with a simulated business domain expert to support the discovery process, and it has been quite successful in smoothening the gap.
-- Every new technological initiative comes with skepticism and criticism. Kendrick takes these as real user feedback. To make stakeholders feel they are understood the key is homework. There is no excuse for under preparing for customer invterviews, relating to the stakeholder, meeting him at his grounds is a basic requirement for Kendrick.
-- Kendrick avoids playing the expert, and is upfront about the homework he has done, allows users to correct his understanding as part of the discovery process. Consultative solutioning remains a social skill rather than a technical skill.
+
+Transforming an unstructured business workflow into a repeatable, automatable process requires deep domain knowledge and thorough user research — which is often time-consuming for frontline process owners. Kendrick bridges this gap through preparation and consultative listening: he comes to every stakeholder interview having already done the homework, so that he can meet them at their level rather than making them explain their world from scratch.
+
+Every new technology initiative comes with skepticism. Kendrick treats this as real user feedback. He avoids positioning himself as the expert — instead, he states his current understanding upfront and explicitly invites correction, which builds trust and surfaces accurate requirements faster. Consultative solutioning, in his view, is fundamentally a social skill before it is a technical one.
 
 ## Cross-Cultural Working Style
-<!-- SG / TH / CN context — what have you learned and how does it shape how you operate? -->
-- Spoken language while being a obvious indicator, is actually not a pre-requisite for cultral understanding. When someone tries to integrate to culture, we may often get mixed between history, language, tradition. But for Kendrick the key is relating to everyday life. He keeps lists of restaurants he likes, is capable for naming 10 local artistes, has his favourite hangout location at the tip of his fingers. He knows every sub-district and can tell you the real duration it takes to drive there based on knowledge of traffic conditions rather than google maps. That just simply relates to the culture much more than reading a book on theory.
-- Beyond local land knowledge, understand the societal issues, place oneself in the shoes of a young adult or a student in the city. Live the lives that they live and experience the good parts as well as the problems they are facing. Think in terms of living spaces, education, healthcare, etc. those issues make you relatable and preserves your character.
-- The key is being sincere, being real, forming your own opinions rather than trying hard to be one-of-them. Cross-cultral begins with acknowledging the differences and adapting on-the-fly. The greatest trap is to appear too accomodating or having a pre-concieved perecption of their culture, that makes it hard to adapt as our perception has been misconfigured.
 
-## What Energises You at Work
-<!-- Be specific — what kinds of problems, interactions, or outcomes give you energy? -->
-- Kendrick is not afraid of conflict. He comes prepared to challenge norms, but does so in a respectful manner. Simply going through the thought exercise energizes him.
-- Kendrick really loves getting his team to agree on a solution. That is his way of feeling endorsed, playing the part of a coordinator and negotiator.
-- Kendrick like to get his hands dirty. He wants to be involved with the engineers, raising the issues, and sharing his experience as a cross-domain business and technical communicator.
-- Kendrick is a executor, once a plan is set he will follow it through like a heat-seeking missile.
+Kendrick has lived and worked across Singapore, Thailand, and the broader SEA region. His approach to cross-cultural integration is grounded in lived experience rather than theory. He keeps running lists of local restaurants he genuinely likes, can name local artists, knows the real traffic conditions between Bangkok sub-districts — the kind of local knowledge that only comes from actually living there.
 
-## What Drains You
-<!-- Be honest — this helps the bot give an accurate picture of fit for roles -->
-- Poor management direction, unclear strategy, or constantly changing strategy. Kendrick gets irritated when his management cannot own up to their own plans. 
-- Unclear boundaries. While always ready to support, Kendrick does not like it when he is assigned to someone elses job especially if it does not get recognized.
+Beyond local familiarity, he places himself in the shoes of a young adult navigating that city — thinking about living costs, education, healthcare, and daily frustrations. That perspective keeps his character authentic rather than performative.
+
+His principle: cross-cultural competence begins with sincerely acknowledging differences and adapting in real time. The biggest trap is over-accommodating or carrying pre-conceived perceptions of a culture — both prevent genuine adaptation. He aims to form his own honest opinions about each context, and people notice the difference.
+
+## What Energises Him at Work
+
+- Constructive challenge. Kendrick is not afraid of conflict — he comes prepared to challenge norms, and does so respectfully. The intellectual exercise itself energises him.
+- Getting alignment. Bringing a team to consensus on a solution is deeply satisfying — he thrives as a coordinator and negotiator.
+- Getting his hands dirty. He wants to be in the room with engineers, raising issues, and contributing as a credible cross-domain communicator.
+- Execution. Once a plan is set, he follows it through with intensity. He is a finisher.
+
+## What Drains Him
+
+- Unclear or constantly shifting strategy. Kendrick delivers best when leadership owns its direction. Management that cannot commit to a plan is a significant source of friction for him.
+- Boundary ambiguity. He is always willing to support, but does not perform well when repeatedly assigned to work that falls outside his scope without recognition or role clarity.

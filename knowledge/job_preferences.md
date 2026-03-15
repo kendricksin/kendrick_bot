@@ -1,41 +1,52 @@
 # Job Preferences — Kendrick Sin
-# [PLACEHOLDER — fill in before deploying]
-# This file tells the bot what kinds of roles and environments you're targeting.
-# The bot will use this when recruiters or hiring managers ask about your availability,
-# fit, or what you're looking for next.
 
 ## Target Role Types
-<!-- What titles / functions are you aiming for? -->
-- AI Solutions Architect, Technical BD Lead, Agent Deployment Specialist, Product Owner, AI Product Owner, Consultative Sales, Customer Success Manager,
-- The ideal role should be, challenging technically, leading edge technology, creating brand new business cases or never before seen workflows. 
+
+Kendrick is targeting roles at the intersection of AI technology and business impact — positions that require both technical credibility and commercial acumen. Relevant titles include:
+
+- AI Solutions Architect
+- Technical Business Development Lead / Forward Deployed Engineer
+- AI Product Owner / Product Manager
+- Agentic AI Deployment Specialist
+- Consultative Sales (AI/Cloud)
+- Customer Success Manager (Enterprise AI)
+
+The ideal role is technically challenging, involves leading-edge technology, and requires building genuinely new business cases or workflows that have not been done before. He is not looking for a maintenance role — he wants to be on the frontier.
 
 ## Preferred Company Stage
-<!-- Early seed? Scale-up? Enterprise? -->
-- Kendrick is open to work in any stage of company as he has experience working with startups, enterprise clients, and even government agencies. 
+
+Kendrick is open to any company stage. He has worked with early-stage startups, established enterprise technology vendors, and government agencies. What matters more than stage is strategic clarity: a well-defined mission and a leadership team that owns its roadmap.
 
 ## Geography & Remote Preference
-<!-- Bangkok-based; travel appetite; remote vs. in-office -->
-- Preferably hybrid flexible, open to work fixed hours in office.
-- Limited region travel once per quarter, open to short deployments no exceeding 3 months with adequate compensation.
-- Prefers to live in Bangkok. Open to Singapore.
+
+- Based in Bangkok; prefers hybrid-flexible arrangements with some in-office presence
+- Open to limited regional travel (approximately once per quarter)
+- Open to short deployments of up to 3 months with appropriate compensation
+- Also open to relocation to Singapore
 
 ## Deal-Breakers
-<!-- What would immediately disqualify a role? -->
-- For enterprise customers, avoid pure sales quota led roles (cycle is long).
-- Pure re-sellers that just re-packages products and provide after sales support (not innovative enough).
-- >50 hours per week. Kendrick puts his all during working hours, responds quickly even on weekends, but reserves time for his own passion.
+
+- Pure sales quota roles for enterprise clients — the deal cycle is long and the role reduces to pipeline management
+- Pure resellers that repackage vendor products without adding technical depth or innovation
+- Roles requiring consistently more than 50 hours per week. Kendrick is highly responsive and brings full intensity during working hours, including weekend availability for urgent matters — but he protects time outside work for personal development and interests
 
 ## Ideal Team & Manager
-<!-- What kind of team dynamic and leadership do you thrive under? -->
-- Ideal manager is a strategist with clear winning plan, he is looking for a loyal executor
-- Ideal team is a team which helps Kendrick grow in multiple aspects
-- Expect small cross-functional team, high dive, and high learning capacity
+
+- **Manager:** A strategic thinker with a clear winning plan who values a loyal, high-output executor. Kendrick delivers best when direction is stable and his contributions are visible.
+- **Team:** Cross-functional, small, high-calibre. He wants to grow in multiple dimensions — technical depth, commercial instinct, and domain knowledge — and he gravitates toward teams where everyone is learning.
+- Expects high ownership, high learning velocity, and direct communication
 
 ## Compensation Framing
-<!-- Directional framing only — no specific numbers unless you want to share -->
-- Looking for market rate base salary for forward deployed roles, with KPI based bonuses
-- Open to take stock as compensation for high potential growth companies
+
+- Market-rate base salary appropriate for a forward-deployed technical BD or AI solutions role
+- Performance bonuses tied to clear KPIs
+- Open to meaningful equity compensation at high-growth companies
 
 ## Industries of Interest
-<!-- Which verticals excite you? Which would you avoid? -->
-- Pure tech companies, Technology led BUs, High engineering environments, Technology Acquisition / Procurement considered.
+
+Kendrick is drawn to environments where technology is the core product or a strategic differentiator — not a support function. This includes:
+
+- Pure-play AI and cloud technology companies
+- Technology-led business units within larger enterprises
+- High-engineering environments (fintech, deep tech, enterprise SaaS)
+- Technology acquisition and procurement contexts where he can influence buy vs. build decisions
