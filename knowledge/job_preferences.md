@@ -11,7 +11,7 @@ Kendrick is targeting roles at the intersection of AI technology and business im
 - Consultative Sales (AI/Cloud)
 - Customer Success Manager (Enterprise AI)
 
-The ideal role is technically challenging, involves leading-edge technology, and requires building genuinely new business cases or workflows that have not been done before. He is not looking for a maintenance role — he wants to be on the frontier.
+The ideal role is technically challenging, involves leading-edge technology, and requires building genuinely new business cases or workflows that have not been done before. He is not looking for a maintenance role — he wants to be on the frontier. Roles that involve entering new markets from scratch, standing up GTM motions, or building customer success functions where none existed before are particularly compelling.
 
 ## Preferred Company Stage
 

@@ -37,7 +37,7 @@
       "highlights": [
         "Engineered and executed the GTM strategy for AI distribution in the Thailand market, achieving 3-digit growth in regional adoption since 2024",
         "Structured and negotiated multi-year AI transformation roadmaps and commercial agreements for Tier-1 enterprise clients, securing long-term recurring revenue and strategic partnerships",
-        "Scaled the local developer community for the Qwen AI ecosystem; authored and maintained open-source repositories that democratize AI implementation for non-technical stakeholders",
+        "Scaled the local developer community for AI and LLM adoption; authored and maintained open-source repositories that democratize AI implementation for non-technical stakeholders",
         "Led high-stakes Proof of Concept (POC) developments, bridging the gap between complex AI capabilities and tangible business ROI for enterprise customers",
         "Proactively identified and resolved critical architectural bugs within the core AI product suite, ensuring seamless deployment and maintaining 99.9% reliability for mission-critical client initiatives",
         "Acted as the primary technical-business liaison, translating local market requirements into product engineering feedback to influence the global AI roadmap"
@@ -75,7 +75,7 @@
       "position": "Innovator-in-residence",
       "startDate": "2019-05-01",
       "endDate": "2021-05-01",
-      "summary": "Seconded officers from Republic of Singapore Navy to Defence Science and Technology Agency (DSTA) to managed innovation initiatives and developed technology solutions for military operations",
+      "summary": "Seconded from Republic of Singapore Navy to Defence Science and Technology Agency (DSTA) to manage innovation initiatives and develop technology solutions for military operations, while continuing as lead staffer for the Navy's innovation procurement forum",
       "highlights": [
         "Managed a portfolio of six organization-scale innovation projects valued at up to $5 million each",
         "Consistently delivered two Minimum Viable Products bi-annually, with 100% progressing to full implementation",
@@ -85,11 +85,16 @@
     },
     {
       "name": "Singapore Armed Forces",
-      "position": "Naval Officer",
+      "position": "Naval Officer / Innovation Procurement Staff Officer",
       "startDate": "2017-05-01",
       "endDate": "2019-05-01",
-      "summary": "Served as naval officer in the Singapore Armed Forces",
-      "highlights": []
+      "summary": "Served as a navigation officer onboard while concurrently holding a staff role as lead staffer for the Republic of Singapore Navy's innovation procurement budget",
+      "highlights": [
+        "Led innovation budget staffing for the Navy's $30M organization-wide innovation fund, acting as the primary liaison between innovation initiative teams and the monthly Innovation Forum",
+        "Vetted all forum submissions to ensure alignment with budget objectives, guidelines, and strategic requirements before presentation to senior leadership",
+        "Supported initiative teams through preparation work prior to each forum, collected and disseminated forum feedback, and tracked follow-up actions through to budget approval",
+        "Completed navigation training and served onboard as a qualified navigation officer concurrent with staff duties"
+      ]
     }
   ],
   "volunteer": [],
@@ -114,28 +119,46 @@
   ],
   "certificates": [
     {
+      "name": "Alibaba Cloud Certified Professional Data Architect",
+      "date": "2026-05-01",
+      "issuer": "Alibaba Cloud Academy",
+      "url": "https://aliyun-aps-cloud-public.oss-cn-hangzhou.aliyuncs.com/img_68b4a76e1932a6dbc452a91af4ba6555.jpg"
+    },
+    {
+      "name": "Alibaba Cloud Certified Professional Database",
+      "date": "2026-03-17",
+      "issuer": "Alibaba Cloud Academy",
+      "url": "https://aliyun-aps-cloud-public.oss-cn-hangzhou.aliyuncs.com/img_3655053a3dab8dd2749af2232246c3e1.jpg"
+    },
+    {
       "name": "Alibaba Cloud Certified Professional LLM Engineer",
       "date": "2025-10-01",
       "issuer": "Alibaba Cloud Academy",
-      "url": ""
+      "url": "https://aliyun-aps-cloud-public.oss-cn-hangzhou.aliyuncs.com/img_ea68b50d9ce412c70dc7681a5c643b48.png"
+    },
+    {
+      "name": "Alibaba Cloud Certified Professional Cloud Architect",
+      "date": "2025-10-01",
+      "issuer": "Alibaba Cloud Academy",
+      "url": "https://aliyun-aps-cloud-public.oss-cn-hangzhou.aliyuncs.com/img_9adfbcf744ec954b644b56480612b126.png"
     },
     {
       "name": "Google Cloud Computing Associate Cloud Engineer (ACE)",
       "date": "2025-02-01",
       "issuer": "Google Cloud",
-      "url": ""
+      "url": "https://www.credly.com/badges/9fa06964-65d7-41c8-891a-0277b46d3bdc/public_url"
     },
     {
       "name": "Project Management Professional (PMP)",
       "date": "2024-11-01",
       "issuer": "Project Management Institute",
-      "url": ""
+      "url": "https://www.credly.com/badges/f0d556c5-740b-4099-88b6-4cdc80cae731/public_url"
     },
     {
       "name": "Certified Argo Project Associate",
       "date": "2024-06-01",
       "issuer": "Linux Foundation",
-      "url": ""
+      "url": "https://www.credly.com/badges/fd3b3292-709e-40b0-9be6-fadb7afc72b4/linked_in_profile"
     },
     {
       "name": "Alibaba Cloud Computing Professional",
@@ -147,13 +170,7 @@
       "name": "Certified Scrum Master (CSM)",
       "date": "2021-08-01",
       "issuer": "Scrum Alliance",
-      "url": ""
-    },
-    {
-      "name": "Google Analytics Individual Qualification",
-      "date": "2021-03-01",
-      "issuer": "Google",
-      "url": ""
+      "url": "https://bcert.me/slvpkxtpu"
     },
     {
       "name": "Business Process Re-engineering (BPR)",
@@ -183,25 +200,35 @@
       "name": "Machine Learning",
       "date": "2019-02-01",
       "issuer": "Stanford Online",
-      "url": ""
+      "url": "https://coursera.org/share/69ff3f935531078584a083554d7d7929"
     }
   ],
   "publications": [],
   "skills": [
     {
-      "name": "AI Agentic Solutions",
-      "level": "Advanced",
-      "keywords": ["MCP Agents", "LLM Integration", "AI Workflow Automation", "RAG", "Prompt Engineering", "AI Deployment", "Open-Source AI Ecosystems"]
-    },
-    {
-      "name": "Business Process Analysis",
+      "name": "AI Solutioning & Deployment",
       "level": "Expert",
-      "keywords": ["Process Gap Identification", "Requirements Gathering", "AI Use Case Discovery", "Process Improvement", "Data Analytics", "Business ROI Mapping"]
+      "keywords": ["AI Use Case Discovery", "POC Delivery", "LLM Integration", "RAG", "Prompt Engineering", "AI Deployment", "AI Product Governance"]
     },
     {
-      "name": "Cloud Technologies / DevOps",
+      "name": "Agentic Automation",
       "level": "Advanced",
-      "keywords": ["Alibaba Cloud", "AWS", "Azure", "Google Cloud Platform", "Cloud Migration", "Cloud Optimization", "ArgoCD", "Container Orchestration"]
+      "keywords": ["MCP Agents", "AI Workflow Automation", "Agent Frameworks (OpenClaw)", "Enterprise System Integration", "Open-Source AI Ecosystems"]
+    },
+    {
+      "name": "Model Development & Inference",
+      "level": "Intermediate",
+      "keywords": ["PyTorch", "SciKit-Learn", "vLLM", "Local LLM", "Fine-tuning", "ASR / TTS"]
+    },
+    {
+      "name": "GTM Strategy & Market Development",
+      "level": "Expert",
+      "keywords": ["Market Entry Strategy", "AI Distribution", "Developer Community Building", "Open-Source Ecosystem Development", "Cross-cultural Communication", "APAC Market"]
+    },
+    {
+      "name": "Customer Success & Enterprise Sales",
+      "level": "Expert",
+      "keywords": ["Enterprise Deal-Making", "Multi-year Roadmap Structuring", "Technical-Business Liaison", "Client ROI Mapping", "Account Growth", "Negotiation Planning"]
     },
     {
       "name": "Project Management",
@@ -209,14 +236,9 @@
       "keywords": ["Agile/Scrum", "Waterfall", "Jira", "MS Project", "Risk Management", "Stakeholder Communication"]
     },
     {
-      "name": "Stakeholder Management",
-      "level": "Expert",
-      "keywords": ["Building Rapport", "Cross-cultural Communication", "Executive Communication", "Enterprise Deal-Making"]
-    },
-    {
-      "name": "Leadership",
+      "name": "Cloud Technologies / DevOps",
       "level": "Advanced",
-      "keywords": ["Team Building", "Mentoring", "Developer Community Building", "Performance Management"]
+      "keywords": ["Alibaba Cloud", "AWS", "Azure", "Google Cloud Platform", "Cloud Migration", "Cloud Optimization", "ArgoCD", "Container Orchestration"]
     }
   ],
   "languages": [
@@ -246,21 +268,86 @@
   "references": [],
   "projects": [
     {
-      "name": "Qwen AI Ecosystem — Open Source Repository",
-      "summary": "High-impact open-source repository authored to democratize AI implementation for non-technical stakeholders, supporting the Qwen AI ecosystem developer community in Southeast Asia",
-      "url": "https://github.com/kendricksin/learn_to_qwen",
-      "startDate": "2025-01-01",
-      "keywords": ["AI", "Qwen", "MCP Agents", "Open Source", "Developer Community"]
+      "name": "Learn to Vibe — Open Source Repository",
+      "summary": "High-impact open-source repository authored to democratize AI and LLM implementation for non-technical stakeholders, supporting the developer community in Southeast Asia",
+      "url": "https://github.com/kendricksin/learn_to_vibe",
+      "startDate": "2025-12-01",
+      "keywords": ["AI", "LLM", "MCP Agents", "Open Source", "Developer Community", "Vibe Coding"]
+    },
+    {
+      "name": "Telesales Coach",
+      "summary": "Real-time AI coaching harness for telesales operators, using ASR to monitor script adherence and provide live suggestions. Designed to run on small models with local CPU — no GPU or excessive token consumption required.",
+      "url": "https://github.com/kendricksin/telesales-coach",
+      "startDate": "2026-05-01",
+      "keywords": ["AI", "ASR", "Speech Recognition", "Telesales", "Real-time Coaching", "Small Models", "FastAPI"]
+    },
+    {
+      "name": "AI Gym Coach",
+      "summary": "Personal AI gym coach built on OpenClaw and Lark platform, demonstrating real-life agent applications and enterprise system integration. Tracks Push/Pull/Legs workouts with automatic progression, performance analysis, and proactive reminders — showcasing both the strengths and limitations of AI agents.",
+      "url": "https://github.com/kendricksin/gym_routine",
+      "startDate": "2026-03-01",
+      "keywords": ["AI Agents", "OpenClaw", "Lark", "Enterprise Integration", "Fitness", "Python"]
     },
     {
       "name": "Interactive Resume",
       "summary": "An interactive web-based resume built vibe coding",
       "url": "https://github.com/kendricksin/interactive_resume",
-      "startDate": "2025-01-01",
+      "startDate": "2026-01-01",
       "keywords": ["Web Development", "Resume", "React"],
       "highlights": [
         "Live demo: https://kendricksin.github.io/interactive_resume/"
       ]
     }
-  ]
+  ],
+  "techStack": {
+    "description": "Product-led developer — diverse across domains because I build what the product needs, not what the technology dictates.",
+    "categories": [
+      {
+        "name": "AI & LLM Tooling",
+        "items": [
+          { "name": "AI Development (Claude Code, Open Code)", "score": 9 },
+          { "name": "Model Calling (OpenAI SDK, Anthropic SDK)", "score": 8 },
+          { "name": "Agents (OpenClaw, CoPaw, HiClaw)", "score": 7 },
+          { "name": "LLM Training / Fine-tuning (PyTorch, SciKit-Learn)", "score": 5 },
+          { "name": "Local LLM Inference (vLLM)", "score": 3 },
+          { "name": "Voice Applications (ASR / TTS)", "score": 3 }
+        ]
+      },
+      {
+        "name": "Backend & APIs",
+        "items": [
+          { "name": "FastAPI", "score": 7 },
+          { "name": "PostgreSQL", "score": 8 },
+          { "name": "SQLite", "score": 6 },
+          { "name": "Serverless (FC / Cloud Functions / Cloud Run / Lambda)", "score": 8 }
+        ]
+      },
+      {
+        "name": "Frontend & Web",
+        "items": [
+          { "name": "TypeScript", "score": 6 },
+          { "name": "React", "score": 6 },
+          { "name": "Vanilla JS", "score": 3 }
+        ]
+      },
+      {
+        "name": "DevOps & Infrastructure",
+        "items": [
+          { "name": "Cloud Native (Alibaba Cloud, GCP, AWS)", "score": 7 },
+          { "name": "Docker", "score": 6 },
+          { "name": "GitHub Actions", "score": 5 },
+          { "name": "Bash Scripting", "score": 3 },
+          { "name": "ArgoCD", "score": 2 }
+        ]
+      },
+      {
+        "name": "Platforms & Integrations",
+        "items": [
+          { "name": "Lark", "score": 7 },
+          { "name": "Microsoft Teams", "score": 4 },
+          { "name": "Google Workspace CLI", "score": 3 }
+        ]
+      }
+    ]
+  }
 }

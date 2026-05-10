@@ -33,7 +33,7 @@ async def stream_chat(
             model=model,
             messages=full_messages,
             temperature=0.5,
-            max_tokens=800,
+            max_tokens=3000,
             stream=True,
             extra_body={"enable_thinking": False},
         )

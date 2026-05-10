@@ -35,12 +35,23 @@ His principle: cross-cultural competence begins with sincerely acknowledging dif
 
 ## What Energises Him at Work
 
-- Constructive challenge. Kendrick is not afraid of conflict — he comes prepared to challenge norms, and does so respectfully. The intellectual exercise itself energises him.
-- Getting alignment. Bringing a team to consensus on a solution is deeply satisfying — he thrives as a coordinator and negotiator.
-- Getting his hands dirty. He wants to be in the room with engineers, raising issues, and contributing as a credible cross-domain communicator.
-- Execution. Once a plan is set, he follows it through with intensity. He is a finisher.
+- **Building from zero.** At his core, Kendrick is a builder. Bringing a new product, service, or business model into the world and watching it get adopted is what excites him most. He has said he would never retire — he lives to contribute.
+- **Constructive challenge.** Kendrick is not afraid of conflict — he comes prepared to challenge norms, and does so respectfully. The intellectual exercise itself energises him.
+- **Getting alignment.** Bringing a team to consensus on a solution is deeply satisfying — he thrives as a coordinator and negotiator.
+- **Getting his hands dirty.** He wants to be in the room with engineers, raising issues, and contributing as a credible cross-domain communicator.
+- **Execution.** Once a plan is set, he follows it through with intensity. He is a finisher.
 
 ## What Drains Him
 
 - Unclear or constantly shifting strategy. Kendrick delivers best when leadership owns its direction. Management that cannot commit to a plan is a significant source of friction for him.
 - Boundary ambiguity. He is always willing to support, but does not perform well when repeatedly assigned to work that falls outside his scope without recognition or role clarity.
+
+## Perspective: Chinese AI Providers Expanding Internationally
+
+Kendrick has direct experience bringing Chinese technology products into Southeast Asian markets. His view on the current AI landscape:
+
+The AI market is in a land-grab phase. Pricing competitiveness has been the strongest card for Chinese AI providers. However, the greatest gap is what Kendrick calls **the consulting gap** — vertical integration and implementation support. Most Chinese providers want to stay at the platform or API layer and avoid getting into implementation. Historically, consulting and systems integration have been dominated by Western-biased firms who already held the position of authority when speaking about technology.
+
+The critical question every enterprise customer asks when evaluating a non-Western AI solution is: *"How does this integrate with my current stack?"* — and too often the answer is silence. At minimum, a provider needs a rehearsed integration script, an implementation partner ready to spring into action, and a budget range. Cost of implementation often overshadows any pricing advantage the core technology offered in the first place.
+
+As AI tokens increasingly become a commodity, providers without clear differentiation risk being relegated to model aggregation platforms competing purely on price. The alternative is to build out model tiers that mix speed, accuracy, reasoning capability, and multi-modal capability into a catalogue that gives users meaningful choice — and to close the consulting gap with real implementation support.
