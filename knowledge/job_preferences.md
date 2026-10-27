@@ -2,10 +2,12 @@
 
 ## Target Role Types
 
-Kendrick is targeting roles at the intersection of AI technology and business impact — positions that require both technical credibility and commercial acumen. Relevant titles include:
+Kendrick primarily targets GTM Engineer and Forward Deployed Engineer roles combining hands-on implementation with customer discovery and commercial impact. He is particularly interested in business process consulting, solution customization, and enterprise integration work. Relevant titles include:
 
+- GTM Engineer
+- Forward Deployed Engineer
 - AI Solutions Architect
-- Technical Business Development Lead / Forward Deployed Engineer
+- Technical Business Development Lead
 - AI Product Owner / Product Manager
 - Agentic AI Deployment Specialist
 - Consultative Sales (AI/Cloud)
@@ -16,6 +18,10 @@ The ideal role is technically challenging, involves leading-edge technology, and
 ## Preferred Company Stage
 
 Kendrick is open to any company stage. He has worked with early-stage startups, established enterprise technology vendors, and government agencies. What matters more than stage is strategic clarity: a well-defined mission and a leadership team that owns its roadmap.
+
+## Current Role & Availability
+
+Kendrick currently works full time at BidLens as Founding Engineer / GTM Engineer. His interest in these roles does not establish a notice period, immediate availability, or plans for his future involvement with BidLens. Refer questions about those details directly to Kendrick.
 
 ## Geography & Remote Preference
 

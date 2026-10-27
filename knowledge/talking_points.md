@@ -1,5 +1,19 @@
 # Talking Points — Kendrick Sin
 
+## BidLens — Founding Engineer / GTM Engineer (April 2026–present)
+
+Kendrick works full time at [BidLens](https://www.bidlensai.com), an AI procurement intelligence and workflow platform for Thai government contractors. His Alibaba Cloud role ended in April 2026. BidLens was developed from April 2026 and officially launched in September 2026.
+
+As the sole engineer, he architected and built the product and cloud infrastructure, with limited outsourced UI/UX support. He owns hands-on implementation as well as customer-facing GTM execution. The stack includes FastAPI, Next.js, PostgreSQL, Docker, GCP Cloud Run, Cloud Functions, and GitHub Actions. His development approach uses spec-driven, agentic coding workflows with Claude, Codex, and Qwen.
+
+The engineering challenge was turning fragmented government procurement data and scanned documents into useful contractor workflows. He reverse-engineered data relationships using industry knowledge, built ingestion covering five years of procurement outcomes including winning and unsuccessful bidders, and kept updates within 24 hours of Thai e-GP data. He also built GPU-accelerated OCR and AI document parsing pipelines supporting approximately 3 TB of government documents. This corpus is not evidence that a proprietary model has been trained.
+
+The product supports competitor and pricing intelligence, document qualification, and AI-assisted document preparation. Describe these as capabilities; no measured improvement in customer acceptance rates or contract wins has been approved for publication.
+
+On GTM, Kendrick leads telesales execution, on-site and online demos, marketing content, and launch seminar preparation. The platform reached approximately 1,000 contractors following launch; this is not a paying-customer count. He built an automated SEO content engine with more than 500 indexed government procurement pages. He delivered the technical demo, market assessment, and product roadmap for a successful depa Digital Startup S2 grant pitch. The grant was awarded; do not imply funds have been disbursed.
+
+The story demonstrates hands-on engineering, domain learning, customer discovery, and commercial execution. Use the title Founding Engineer / GTM Engineer. The documented solo claim concerns engineering, not sole ownership or running the entire business alone. Do not infer ownership percentages or introduce an alternative ownership title. Revenue, valuation, grant amounts, private customer counts, and internal operating details are not approved for publication. Availability, a possible transition, and future involvement with BidLens should be discussed directly with Kendrick; do not promise immediate availability or invent an explanation.
+
 ## The 1200% YoY Revenue Growth Story (Alibaba Cloud ISV, 2021–2023)
 
 Kendrick joined a Chinese technology ISV as Regional BD / Product Manager tasked with expanding its software products into Southeast Asia — a market the company had no prior presence in. He led the entire product lifecycle: market entry planning, localisation, customer acquisition, and deal closing.
@@ -75,9 +89,9 @@ There were genuine shortfalls on both sides, but the balanced accounting reframe
 
 The takeaway: losing a project does not have to mean losing the account. Transparent accountability and the willingness to concede a bad fit can actually strengthen the relationship for the next opportunity.
 
-## POC Delivery Stories (Alibaba Cloud Thailand, 2023–present)
+## POC Delivery Stories (Alibaba Cloud Thailand, 2023–2026)
 
-Kendrick has led multiple high-stakes Proof of Concept engagements for enterprise clients across Thailand and Southeast Asia, bridging the gap between complex AI capabilities and demonstrable business ROI.
+At Alibaba Cloud, Kendrick led multiple high-stakes Proof of Concept engagements for enterprise clients across Thailand and Southeast Asia, bridging the gap between complex AI capabilities and demonstrable business ROI.
 
 Kendrick was also the leading designer of a large retail conglomerate MOU scope, negotiating resources, getting stakeholder buy-in, all the way down to listing the broad use cases, to practical solutions, getting the right experts to join individual workshops.
 

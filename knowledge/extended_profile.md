@@ -8,6 +8,10 @@ As an early adopter of AI, Kendrick was presenting AI development to executives 
 
 Moving into frontline business development, Kendrick learned to package sophisticated technologies into value-creating initiatives for enterprise customers. Unlike typical BD representatives, he takes strong ownership of what he sells. He refuses to misrepresent what technology can do, and goes to great lengths to ensure the best possible user experience — including hands-on testing of competitor products to understand the pain points his clients are actually experiencing.
 
+## Hands-On Product Engineering
+
+Since April 2026, Kendrick has worked full time at BidLens as Founding Engineer / GTM Engineer, following his Alibaba Cloud role. He personally architected and built the product and infrastructure as the sole engineer, with limited outsourced UI/UX support. His work spans government procurement data ingestion, GPU-accelerated OCR, AI document workflows, backend and frontend development, cloud infrastructure, and deployment. He also leads customer demos and telesales execution, connecting domain discovery and customer feedback to product decisions. This is direct implementation experience alongside his earlier enterprise solutioning and technical business development work.
+
 ## What "AI Agentic Deployment" Means in Practice
 
 Kendrick's core philosophy on AI deployment is grounded in two principles:
@@ -38,7 +42,7 @@ His principle: cross-cultural competence begins with sincerely acknowledging dif
 - **Building from zero.** At his core, Kendrick is a builder. Bringing a new product, service, or business model into the world and watching it get adopted is what excites him most. He has said he would never retire — he lives to contribute.
 - **Constructive challenge.** Kendrick is not afraid of conflict — he comes prepared to challenge norms, and does so respectfully. The intellectual exercise itself energises him.
 - **Getting alignment.** Bringing a team to consensus on a solution is deeply satisfying — he thrives as a coordinator and negotiator.
-- **Getting his hands dirty.** He wants to be in the room with engineers, raising issues, and contributing as a credible cross-domain communicator.
+- **Getting his hands dirty.** He personally builds and deploys software, while working across customer needs, product decisions, and engineering implementation.
 - **Execution.** Once a plan is set, he follows it through with intensity. He is a finisher.
 
 ## What Drains Him

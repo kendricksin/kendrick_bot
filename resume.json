@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Kendrick Sin",
-    "label": "AI Solutions Strategist & Business Technical Lead",
+    "label": "GTM Engineer | AI Solutions & Enterprise Integration",
     "image": "",
     "email": "kendricksin@outlook.sg",
     "phone": "+66 923969583 (TH)",
     "url": "",
-    "summary": "AI Solutions Strategist and Business Technical Lead with a proven track record of bridging the gap between enterprise business needs and hands-on AI deployment. Specialized in enabling business users to safely, sustainably, and reliably adopt AI agentic solutions — including MCP Agent frameworks — by identifying process gaps and driving end-to-end implementation. Combines deep GTM strategy and enterprise deal-making experience with technical credibility in AI product governance, POC delivery, and open-source ecosystem development. Fluent in English, Chinese, and Thai, with a talent for building strong relationships across cultural boundaries.",
+    "summary": "Hands-on GTM engineer and AI solutions practitioner with 5+ years of experience across technical project delivery, enterprise solutioning, and market development. Translates customer needs and business processes into practical AI workflows, custom integrations, and production deployments, combining customer discovery, technical demos, and implementation with commercial execution. At BidLens, architected and built an AI procurement platform as the sole engineer while leading customer-facing GTM activities. Brings enterprise experience at Alibaba Cloud and fluency in English, Chinese, and Thai.",
     "location": {
       "address": "Chatuchak",
       "postalCode": "10900",
@@ -29,10 +29,28 @@
   },
   "work": [
     {
+      "name": "BidLens",
+      "position": "Founding Engineer / GTM Engineer",
+      "url": "https://www.bidlensai.com",
+      "startDate": "2026-04-01",
+      "endDate": "",
+      "summary": "Own product architecture, engineering, and customer-facing GTM execution for an AI procurement intelligence and workflow platform serving Thai government contractors; officially launched in September 2026.",
+      "highlights": [
+        "Architected and built the product and cloud infrastructure as the sole engineer, using FastAPI, Next.js, PostgreSQL, Docker, GCP Cloud Run, Cloud Functions, and GitHub Actions, with limited outsourced UI/UX support",
+        "Translated contractor discovery and industry knowledge into procurement intelligence, competitor and pricing analysis, and AI-assisted document qualification and preparation workflows",
+        "Reverse-engineered government procurement data relationships and built ingestion pipelines covering five years of bid outcomes, including winning and unsuccessful bidders, with updates within 24 hours of Thai e-GP data",
+        "Built GPU-accelerated OCR and AI document parsing pipelines for scanned procurement documents, supporting a corpus of approximately 3 TB of government documents",
+        "Used spec-driven, agentic coding workflows with Claude, Codex, and Qwen across product and infrastructure development",
+        "Led telesales execution, customer demos, marketing content, and launch seminar preparation; the platform reached approximately 1,000 contractors following launch",
+        "Built an automated SEO content engine with more than 500 indexed government procurement pages to support organic customer acquisition",
+        "Delivered the technical demo, market assessment, and product roadmap for a successful depa Digital Startup S2 grant pitch"
+      ]
+    },
+    {
       "name": "Alibaba Cloud Thailand",
       "position": "Senior Business Development Manager",
       "startDate": "2023-12-01",
-      "endDate": "",
+      "endDate": "2026-04-01",
       "summary": "Drive AI business development and technical strategy for enterprise clients across Thailand and Southeast Asia",
       "highlights": [
         "Engineered and executed the GTM strategy for AI distribution in the Thailand market, achieving 3-digit growth in regional adoption since 2024",
@@ -290,10 +308,10 @@
     },
     {
       "name": "Interactive Resume",
-      "summary": "An interactive web-based resume built vibe coding",
+      "summary": "An interactive web-based resume built with AI-assisted coding and vanilla HTML, CSS, and JavaScript",
       "url": "https://github.com/kendricksin/interactive_resume",
       "startDate": "2026-01-01",
-      "keywords": ["Web Development", "Resume", "React"],
+      "keywords": ["Web Development", "Resume", "HTML", "CSS", "JavaScript"],
       "highlights": [
         "Live demo: https://kendricksin.github.io/interactive_resume/"
       ]
